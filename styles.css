@@ -25,3 +25,10 @@ li {
 aside{
     padding-top:20px;
 }
+footer{ text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+main{ margin:0 auto;
+      text-align:center;
+}
